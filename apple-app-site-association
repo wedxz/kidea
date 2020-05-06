@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "MW76NQM8LG.com.kwai.creativity.beta",
+                "paths": [ "*" ]
+            },
+            {
+                "appID": "MKU6U4NGA4.com.kwai.creativity",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}
