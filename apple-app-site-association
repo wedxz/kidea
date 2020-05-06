@@ -4,11 +4,11 @@
         "details": [
             {
                 "appID": "MW76NQM8LG.com.kwai.creativity.beta",
-                "paths": [ "*" ]
+                "paths": [ "*", "/wedxz/kidea/*" ]
             },
             {
                 "appID": "MKU6U4NGA4.com.kwai.creativity",
-                "paths": [ "*" ]
+                "paths": [ "*", "/wedxz/kidea/*" ]
             }
         ]
     }
